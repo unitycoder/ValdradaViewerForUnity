@@ -1,5 +1,7 @@
 # Valdrada Viewer for Unity
 
+<img width="1276" height="541" alt="image" src="https://github.com/user-attachments/assets/856c2a7d-eab9-4ce1-8327-9b4f7cfcce30" />
+
 Unity Package Manager (UPM) importer for [Valdrada](https://github.com/mkturkcan/valdrada) v0.6.0 `CTL1` city tiles. An early prototype to view real-world New York City geometry directly in the Unity Editor.
 
 **Version:** 0.2.0 | **Unity:** 6000.0+ | **Package:** `com.unitycoder.valdradaviewer`
