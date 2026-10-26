@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/VibeCoded-100%25-green" alt="AI Generated Content"/>
+
 # Valdrada Viewer for Unity
 
 <img width="1276" height="541" alt="image" src="https://github.com/user-attachments/assets/856c2a7d-eab9-4ce1-8327-9b4f7cfcce30" />
