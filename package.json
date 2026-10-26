@@ -1,0 +1,25 @@
+{
+  "name": "com.unitycoder.valdradaviewer",
+  "version": "0.2.0",
+  "displayName": "Valdrada Viewer for Unity",
+  "description": "Unity Editor importer for Valdrada v0.6.0 CTL1 city tiles. Builds editable meshes for buildings, roads, sidewalks, road markings, and terrain.",
+  "unity": "6000.0",
+  "documentationUrl": "https://github.com/unitycoder/ValdradaViewerForUnity#readme",
+  "changelogUrl": "https://github.com/unitycoder/ValdradaViewerForUnity/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/unitycoder/ValdradaViewerForUnity/blob/main/LICENSE.md",
+  "license": "MIT",
+  "keywords": [
+    "valdrada",
+    "city",
+    "tiles",
+    "importer",
+    "nyc",
+    "mesh",
+    "editor"
+  ],
+  "author": {
+    "name": "unitycoder",
+    "url": "https://github.com/unitycoder"
+  },
+  "dependencies": {}
+}

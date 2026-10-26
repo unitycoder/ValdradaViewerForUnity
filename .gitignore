@@ -1,0 +1,24 @@
+# Unity project artifacts (if this package is tested as an embedded package)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.vs/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.tmp
+
+# Downloaded Valdrada dataset and importer-generated meshes
+Content/
+ValdradaGenerated/
+Assets/ValdradaGenerated/
+**/t_*.bin
+**/far_*.bin
+.hf_cache/
+.cache/huggingface/
